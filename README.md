@@ -19,4 +19,4 @@ Here is a [link to the code folder](/code), and here is a link for the [blink co
 
 It is easy to display images here:
 
-![](esp32.png)
+![](images/esp32.png)
