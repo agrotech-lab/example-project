@@ -15,7 +15,7 @@ This project bla bla bla
 
 This is **bold text**, now *italics*.
 
-Here is a [link to the code folder](/code), and here is a link for the [blink code](/code/blink.ino)
+Here is a [link to the code folder](code), and here is a link for the [blink code](code/blink.ino)
 
 It is easy to display images here:
 
